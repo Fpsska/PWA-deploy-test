@@ -19,7 +19,11 @@ serviceWorkerRegistration.register()  // use this
 
 serviceWorkerRegistration.register()  // use this
 
-3) configure manifest.json file
+3) check public folder structure:
+
+![](https://github.com/Fpsska/PWA-deploy-test/blob/main/src/app/assets/images/publc-folder-structure.jpg)
+
+4) configure manifest.json file
 
 ```json
 {
@@ -49,8 +53,11 @@ serviceWorkerRegistration.register()  // use this
   "background_color": "#ffffff"
 }
 ```
-4) press F12 -> Lighthouse -> Generate report
-![]()
+
+5) press F12 -> Lighthouse -> Generate report
+
+![](https://github.com/Fpsska/PWA-deploy-test/blob/main/src/app/assets/images/navigation-to-lighthouse.jpg)
+
 
 ##
 
