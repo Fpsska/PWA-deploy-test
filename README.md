@@ -56,6 +56,7 @@ serviceWorkerRegistration.register()  // use this
 
 ![](https://github.com/Fpsska/PWA-deploy-test/blob/main/src/app/assets/images/navigation-to-lighthouse.jpg)
 
+6) deploy build folder of your app to hosting
 
 ##
 
