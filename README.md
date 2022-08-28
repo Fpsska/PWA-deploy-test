@@ -17,8 +17,6 @@ serviceWorkerRegistration.register()  // use this
 
 ```
 
-serviceWorkerRegistration.register()  // use this
-
 3) check public folder structure:
 
 ![](https://github.com/Fpsska/PWA-deploy-test/blob/main/src/app/assets/images/publc-folder-structure.jpg)
